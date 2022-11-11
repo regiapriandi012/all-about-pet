@@ -1,4 +1,7 @@
-## All About Pet
+![](https://github.com/regiapriandi012/all-about-pet/actions/workflows/dependency-review.yml/badge.svg)
+![](https://github.com/regiapriandi012/all-about-pet/actions/workflows/codeql.yml/badge.svg)
+
+# All About Pet
 ##### Website informasi seputar hewan mulai dari cara memelihara, merawat kandang, hingga rekomendasi makanan yang baik untuk hewan peliharaan tercinta. fitur lain dari all about pet adalah konsultasi seputar hewan peliharaan yang sedang mengalami masalah kesehatan atau yang lainnya, fitur lain yang gak kalah bagus adalah booking atau pemesanan klinik hewan secara online melalui aplikasi.
 
 ### Web View
